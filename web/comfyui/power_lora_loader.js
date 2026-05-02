@@ -1,4 +1,4 @@
-var _a, _b;
+var _a, _b, _c;
 import { app } from "../../scripts/app.js";
 import { RgthreeBaseServerNode } from "./base_node.js";
 import { rgthree } from "./rgthree.js";
